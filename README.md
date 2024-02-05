@@ -5,10 +5,6 @@ description:
 permalink: /
 ---
 
-
-
-# anaismu.github.io
-
 Anaïs Claire Murat
 PhD Student 
 School of Computer Science and Statistiques
