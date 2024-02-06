@@ -11,8 +11,9 @@ permalink: /
 
 - School of Computer Science and Statistiques, Trinity College Dublin, Ireland
 
-
 murata at tcd dot ie
+
+[LinkedIn](www.linkedin.com/in/anais-myʁa)
 
 ## Research Interests 
 Anaïs Murat is a PhD candidate in Computer Science at [Trinity College Dublin](https://tcd.ie) since September 2021. She is part of the third cohort being funded by the **Science Foundation Ireland’s Centre for Research Training in Artificial Intelligence [(CRT-AI)](https://crt-ai.ie)**. Supervised by Dr. Carl Vogel, she studies the impact of paralinguistic features on human dialogues. More specifically, she studies how gaze can be tracked and used to get insights into the progression of the interaction.
