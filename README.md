@@ -6,11 +6,11 @@ permalink: /
 ---
 
 # Anaïs C. Murat
-![Photo of Anaïs Murat](/CRT-ID.png){: width="10%"}
+![Photo of Anaïs Murat](/CRT-ID.png){: width="50%"}
 
  PhD Candidate
  
- School of Computer Science and Statistiques, **Trinity College Dublin, Ireland**
+ School of Computer Science and Statistiques, **Trinity College Dublin**, Ireland
 
 ## Contact 
 
