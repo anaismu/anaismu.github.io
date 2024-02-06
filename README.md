@@ -6,10 +6,10 @@ permalink: /
 ---
 
 # Anaïs C. Murat
-> [!NOTE]
-> PhD Candidate
-> School of Computer Science and Statistiques
-> Trinity College Dublin, Ireland
+
+- PhD Candidate
+
+- School of Computer Science and Statistiques, Trinity College Dublin, Ireland
 
 
 murata at tcd dot ie
