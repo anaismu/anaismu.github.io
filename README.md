@@ -26,7 +26,7 @@ She is also a founding member of the CRT AI’s Newsletter Team [_The Turing Poi
 ### 2024
 
 ### 2023 
-Vogel, C. Koutsombogera, M., Murat, Anais Claire, Khosrobeigi, Z. \& Ma, X. (2023). [Gestural linguistic context vectors encode gesture meaning Gesture and Speech in Interaction](http://hdl.handle.net/2262/103904). GeSpIn. 
+Vogel, C. Koutsombogera, M., Murat, Anais Claire, Khosrobeigi, Z. & Ma, X. (2023). [Gestural linguistic context vectors encode gesture meaning Gesture and Speech in Interaction](http://hdl.handle.net/2262/103904). GeSpIn. 
 
 Murat, A. C., Koutsombogera, M., & Vogel, C. [Peer-Reviewed Abstract] (2023). Event Chronography in Multimodal Data: a Method for Quantitative Analyses. MMSYM. 
 
