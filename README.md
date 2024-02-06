@@ -11,7 +11,7 @@ permalink: /
 
 - School of Computer Science and Statistiques, Trinity College Dublin, Ireland
 
-murata at tcd dot ie
+**murata at tcd dot ie**
 
 [LinkedIn](https://www.linkedin.com/in/anais-myʁa)
 
