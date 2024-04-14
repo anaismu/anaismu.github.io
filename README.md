@@ -55,16 +55,16 @@ Murat, A. C., Koutsombogera, M., & Vogel, C. (2022). [Mutual Gaze and Linguistic
 ## Training
 ### ESSLI 2022, Galway, Ireland.
 I attended the 2022 European Summer School in Logic, Language and Information
-(ESSLLI) that was taking place in University of Galway. I had the opportunity to follow the courses:
-• MULTIMODAL SEMANTICS FOR AFFORDANCESANDACTIONS, James Pustejovsky
+(ESSLLI) that was taking place at the University of Galway. I had the opportunity to follow the courses:
+- MULTIMODAL SEMANTICS FOR AFFORDANCES AND ACTIONS, James Pustejovsky
 and Nikhil Krishnaswamy
-• ADVANCED COURSE ON COMPUTATIONAL MODELS OF GROUNDING IN DIALOGUE,
+- ADVANCED COURSE ON COMPUTATIONAL MODELS OF GROUNDING IN DIALOGUE,
 David Traum
-• MULTIMODAL INTERACTION IN DIALOGUEANDITS MEANING, Jonathan Ginzburg
+- MULTIMODAL INTERACTION IN DIALOGUE AND ITS MEANING, Jonathan Ginzburg
 and Andy Lücking
-• A LINGUIST’S GUIDE TO NEURAL NETWORK, Tim Van de Cruys
+- A LINGUIST’S GUIDE TO NEURAL NETWORK, Tim Van de Cruys
 and workshop:
-• Annotation, Recognition and Evaluation of Actions II (AREA-II)
+- Annotation, Recognition and Evaluation of Actions II (AREA-II)
 
 ### CRT-AI Training Weeks
 As part of the agreement between my funding body, the Centre for Research and Training in
