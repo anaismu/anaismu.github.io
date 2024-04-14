@@ -50,8 +50,29 @@ Murat, A. C., Koutsombogera, M., & Vogel, C. (2022). [Mutual Gaze and Linguistic
 
 ### 2022
 #### Manchester NLP Group
-\[INVITED SPEAKER] Murat, A.C., "Studying Multimodality in Interactions:Gaze Patterns & Linguistic Progression"
+\[INVITED SPEAKER] Murat, A. C., "Studying Multimodality in Interactions:Gaze Patterns & Linguistic Progression"
 
 ## Training
+### ESSLI 2022, Galway, Ireland.
+I attended the 2022 European Summer School in Logic, Language and Information
+(ESSLLI) that was taking place in University of Galway. I had the opportunity to follow the courses:
+• MULTIMODAL SEMANTICS FOR AFFORDANCESANDACTIONS, James Pustejovsky
+and Nikhil Krishnaswamy
+• ADVANCED COURSE ON COMPUTATIONAL MODELS OF GROUNDING IN DIALOGUE,
+David Traum
+• MULTIMODAL INTERACTION IN DIALOGUEANDITS MEANING, Jonathan Ginzburg
+and Andy Lücking
+• A LINGUIST’S GUIDE TO NEURAL NETWORK, Tim Van de Cruys
+and workshop:
+• Annotation, Recognition and Evaluation of Actions II (AREA-II)
 
+### CRT-AI Training Weeks
+As part of the agreement between my funding body, the Centre for Research and Training in
+Artificial Intelligence (CRT-AI), I have had to attend five training weeks during the first year
+of my PhD programme. These weeks were thematised: Machine Learning at the University of Limerick,
+Natural Language Learning at the University of Galway, Reinforcement Learning at Trinity
+College Dublin, Computer Vision at Dublin City University, and Constraint Programming at the
+University of Cork City. On top of providing an amazing opportunity for socialising with
+other PhDs of my cohort across Ireland, spending these five weeks reviewing the foundations
+of AI was an incredible learning opportunity to complement my linguistic background.
 
