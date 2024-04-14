@@ -10,7 +10,7 @@ permalink: /
 
  PhD Candidate
  
- School of Computer Science and Statistiques, **Trinity College Dublin**, Ireland
+ School of Computer Science and Statistics, **Trinity College Dublin**, Ireland
 
 ## Contact 
 
@@ -20,7 +20,7 @@ permalink: /
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Anaïs Murat](https://www.linkedin.com/in/anais-myʁa)
 
 ## Research Interests 
-Anaïs Murat is a PhD candidate in Computer Science at [Trinity College Dublin](https://tcd.ie) since September 2021. She is part of the third cohort being funded by the **Science Foundation Ireland’s Centre for Research Training in Artificial Intelligence [(CRT-AI)](https://crt-ai.ie)**. Supervised by Dr. Carl Vogel, she studies the impact of paralinguistic features on human dialogues. More specifically, she studies how gaze can be tracked and used to get insights into the progression of the interaction.
+Anaïs Murat is a PhD candidate in Computer Science at [Trinity College Dublin](https://tcd.ie) since September 2021. She is part of the third cohort being funded by the **Science Foundation Ireland’s Centre for Research Training in Artificial Intelligence [(CRT-AI)](https://crt-ai.ie)**. Supervised by Dr. Carl Vogel, she studies the impact of paralinguistic features on human dialogues. More specifically, she studies how gaze can be tracked and used to get insights into the linguistic progression of the interaction.
 
 Coming from human sciences, she holds a diploma in English Literature and Civilisation, a Bachelor’s degree in Sciences of Language from [Université Lumière Lyon 2](https://www.univ-lyon2.fr/) (France), and a first-class honours Master’s Degree in Speech and Language Processing from [Trinity College Dublin](https://tcd.ie). Particularly interested in syntax and, more broadly, in the underlying rules and patterns governing human interactions, she investigates how these concepts can be applied to the field of Artificial Intelligence.
 
@@ -35,5 +35,23 @@ Vogel, C. Koutsombogera, M., Murat, Anais Claire, Khosrobeigi, Z. & Ma, X. (2023
 Murat, A. C., Koutsombogera, M., & Vogel, C. [Peer-Reviewed Abstract] (2023). Event Chronography in Multimodal Data: a Method for Quantitative Analyses. MMSYM. 
 
 ### 2022
-Murat, A. C, Koutsombogera, M., & Vogel, C. (2022). [Mutual Gaze and Linguistic Repetition in a Multimodal Corpus](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.296.pdf). Proceedings of the Language Resources and Evaluation Conference, 2771–2780. 
+Murat, A. C., Koutsombogera, M., & Vogel, C. (2022). [Mutual Gaze and Linguistic Repetition in a Multimodal Corpus](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.296.pdf). Proceedings of the Language Resources and Evaluation Conference (LREC), 2771–2780. 
+
+## Other Presentations
+### 2024
+#### CRT-AI & Amsterdam AI
+\[POSTER] Murat, A. C., "Eye Gaze & Linguistic Interaction Progression", Amsterdam.
+#### Gesture & Head Movement in Language [(GEHM)](https://cst.ku.dk/english/projects/gestures-and-head-movements-in-language-gehm/) General Meeting: 
+\[PRESENTATION] Murat, A. C., "Eye Gaze & Linguistic Interaction Progression". GEHM General Meeting, Copenhagen.
+
+### 2023
+#### 6th ILLA General Conference, 4th Focus on Forensic Linguistics
+\[PRESENTATION on behalf of the authors] Vogel, C., Moreau, E. Measuring variety of meaning for authorship verification.
+
+### 2022
+#### Manchester NLP Group
+\[INVITED SPEAKER] Murat, A.C., "Studying Multimodality in Interactions:Gaze Patterns & Linguistic Progression"
+
+## Training
+
 
