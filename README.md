@@ -37,7 +37,7 @@ By investigating such matters, she hopes to help the development of more human-o
 
 ## Publications
 ### 2024
-In progress :)
+Currently working on it. :)
 
 ### 2023 
 Vogel, C. Koutsombogera, M., Murat, Anais Claire, Khosrobeigi, Z. & Ma, X. (2023). [Gestural linguistic context vectors encode gesture meaning Gesture and Speech in Interaction](http://hdl.handle.net/2262/103904). GeSpIn. 
@@ -45,7 +45,7 @@ Vogel, C. Koutsombogera, M., Murat, Anais Claire, Khosrobeigi, Z. & Ma, X. (2023
 Murat, A. C., Koutsombogera, M., & Vogel, C. [Peer-Reviewed Abstract] (2023). Event Chronography in Multimodal Data: a Method for Quantitative Analyses. MMSYM. 
 
 ### 2022
-Murat, A. C., Koutsombogera, M., & Vogel, C. (2022). [Mutual Gaze and Linguistic Repetition in a Multimodal Corpus](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.296.pdf). Proceedings of the Language Resources and Evaluation Conference (LREC), 2771–2780. 
+Murat, A. C., Koutsombogera, M., & Vogel, C. (2022). [Mutual Gaze and Linguistic Repetition in a Multimodal Corpus](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.296.pdf). Proceedings of the Language Resources and Evaluation Conference (LREC), 2771–2780. [Master's Dissertation]
 
 ## Other Presentations
 ### 2024
