@@ -10,7 +10,7 @@ permalink: /
 
  PhD Candidate
  
- School of Computer Science and Statistics, **Trinity College Dublin**, Ireland
+ School of Computer Science and Statistics, **Trinity College Dublin**, IE
 
 ## Contact 
 
@@ -63,8 +63,8 @@ Murat, A. C., Koutsombogera, M., & Vogel, C. (2022). [Mutual Gaze and Linguistic
 
 ## Training
 ### ESSLI 2022, Galway, Ireland.
-I attended the 2022 European Summer School in Logic, Language and Information
-(ESSLLI) that was taking place at the University of Galway. I had the opportunity to follow the courses:
+She attended the 2022 European Summer School in Logic, Language and Information
+(ESSLLI) that was taking place at the University of Galway. Thus having the opportunity to follow the courses:
 - MULTIMODAL SEMANTICS FOR AFFORDANCES AND ACTIONS, James Pustejovsky
 and Nikhil Krishnaswamy
 - ADVANCED COURSE ON COMPUTATIONAL MODELS OF GROUNDING IN DIALOGUE,
@@ -76,12 +76,12 @@ and workshop:
 - Annotation, Recognition and Evaluation of Actions II (AREA-II)
 
 ### CRT-AI Training Weeks
-As part of the agreement between my funding body, the Centre for Research and Training in
-Artificial Intelligence (CRT-AI), I have had to attend five training weeks during the first year
-of my PhD programme. These weeks were thematised: Machine Learning at the University of Limerick,
+As part of the agreement between her funding body, the Centre for Research and Training in
+Artificial Intelligence (CRT-AI), she attended five training weeks during the first year
+of her PhD programme. These weeks were thematised: Machine Learning at the University of Limerick,
 Natural Language Learning at the University of Galway, Reinforcement Learning at Trinity
 College Dublin, Computer Vision at Dublin City University, and Constraint Programming at the
-University of Cork City. On top of providing an amazing opportunity for socialising with
-other PhDs of my cohort across Ireland, spending these five weeks reviewing the foundations
-of AI was an incredible learning opportunity to complement my linguistic background.
+University of Cork City. On top of providing an opportunity for socialising with
+other PhDs across Ireland, spending these five weeks reviewing the foundations
+of AI was an incredible learning opportunity to complement her linguistic background.
 
