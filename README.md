@@ -73,6 +73,7 @@ David Traum
 - MULTIMODAL INTERACTION IN DIALOGUE AND ITS MEANING, Jonathan Ginzburg
 and Andy Lücking
 - A LINGUIST’S GUIDE TO NEURAL NETWORK, Tim Van de Cruys
+  
 and workshop:
 - Annotation, Recognition and Evaluation of Actions II (AREA-II)
 
