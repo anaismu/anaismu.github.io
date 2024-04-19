@@ -19,6 +19,8 @@ permalink: /
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Anaïs Murat](https://www.linkedin.com/in/anais-myʁa)
 
+[![Github](-https://icons8.com/icon/51336/lampadina-a-spirale)AnaisMu](https://github.com/anaismu)
+
 ## About 
 Anaïs C. Murat is a PhD candidate in Computer Science at [Trinity College Dublin](https://tcd.ie) since September 2021. She is part of the third cohort being funded by the **Science Foundation Ireland’s Centre for Research Training in Artificial Intelligence [(CRT-AI)](https://crt-ai.ie)**. Particularly interested in syntax and, more broadly, in the underlying rules and patterns governing human interactions, she investigates how these concepts can be applied to the field of Artificial Intelligence.
 
