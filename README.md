@@ -37,6 +37,7 @@ By investigating such matters, she hopes to help the development of more human-o
 
 ## Publications
 ### 2024
+In progress :)
 
 ### 2023 
 Vogel, C. Koutsombogera, M., Murat, Anais Claire, Khosrobeigi, Z. & Ma, X. (2023). [Gestural linguistic context vectors encode gesture meaning Gesture and Speech in Interaction](http://hdl.handle.net/2262/103904). GeSpIn. 
