@@ -19,12 +19,21 @@ permalink: /
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Anaïs Murat](https://www.linkedin.com/in/anais-myʁa)
 
-## Research Interests 
-Anaïs Murat is a PhD candidate in Computer Science at [Trinity College Dublin](https://tcd.ie) since September 2021. She is part of the third cohort being funded by the **Science Foundation Ireland’s Centre for Research Training in Artificial Intelligence [(CRT-AI)](https://crt-ai.ie)**. Supervised by Dr. Carl Vogel, she studies the impact of paralinguistic features on human dialogues. More specifically, she studies how gaze can be tracked and used to get insights into the linguistic progression of the interaction.
+## About 
+Anaïs C. Murat is a PhD candidate in Computer Science at [Trinity College Dublin](https://tcd.ie) since September 2021. She is part of the third cohort being funded by the **Science Foundation Ireland’s Centre for Research Training in Artificial Intelligence [(CRT-AI)](https://crt-ai.ie)**. Particularly interested in syntax and, more broadly, in the underlying rules and patterns governing human interactions, she investigates how these concepts can be applied to the field of Artificial Intelligence.
 
-Coming from human sciences, she holds a diploma in English Literature and Civilisation, a Bachelor’s degree in Sciences of Language from [Université Lumière Lyon 2](https://www.univ-lyon2.fr/) (France), and a first-class honours Master’s Degree in Speech and Language Processing from [Trinity College Dublin](https://tcd.ie). Particularly interested in syntax and, more broadly, in the underlying rules and patterns governing human interactions, she investigates how these concepts can be applied to the field of Artificial Intelligence.
+Coming from human sciences, she holds a diploma in English Literature and Civilisation, a Bachelor’s degree in Sciences of Language from [Université Lumière Lyon 2](https://www.univ-lyon2.fr/) (France), and a first-class honours Master’s Degree in Speech and Language Processing from [Trinity College Dublin](https://tcd.ie).
 
 She is also a founding member of the CRT AI’s Newsletter Team [_The Turing Point_](https://www.crt-ai.ie/news/crt-newsletter-turing-point/).
+
+## Research Interests 
+
+Supervised by Dr. Carl Vogel, she studies the impact of paralinguistic features on human dialogues. More specifically, she studies how gaze can be tracked and used to get insights into the linguistic progression of the interaction. 
+Indeed, while eye gaze is known for playing a role in regulating interactions (interaction initiation, turn-taking, showing attention, etc.), her PhD project aims to look into its relationship with the linguistic unfolding of the conversation itself. One concrete question implied is the following: _can eye gaze help estimate whether the speaker’s production is more likely to repeat previous information or, instead, bring new vocabulary and move on to another topic?_ 
+
+By investigating such matters, she hopes to help the development of more human-oriented technologies that can make use of multiple modalities to become more and more accessible.
+
+
 
 ## Publications
 ### 2024
