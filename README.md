@@ -65,6 +65,10 @@ Murat, A. C., Koutsombogera, M., & Vogel, C. (2022). [Mutual Gaze and Linguistic
 \[INVITED SPEAKER] Murat, A. C., "Studying Multimodality in Interactions:Gaze Patterns & Linguistic Progression"
 
 ## Training
+
+### IBM Masterclass & Workshop 2024, Trinity College Dublin
+In September 2024, she attended the IBM masterclass workshop
+
 ### ESSLI 2022, Galway, Ireland.
 She attended the 2022 European Summer School in Logic, Language and Information
 (ESSLLI) that was taking place at the University of Galway. Thus having the opportunity to follow the courses:
