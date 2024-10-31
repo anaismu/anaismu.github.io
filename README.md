@@ -24,7 +24,7 @@ permalink: /
 ## About 
 Anaïs C. Murat is a PhD candidate in Computer Science at [Trinity College Dublin](https://tcd.ie) since September 2021. She is part of the third cohort being funded by the **Science Foundation Ireland’s Centre for Research Training in Artificial Intelligence [(CRT-AI)](https://crt-ai.ie)**. Particularly interested in syntax and, more broadly, in the underlying rules and patterns governing human interactions, she investigates how these concepts can be applied to the field of Artificial Intelligence.
 
-Coming from human sciences, she holds a diploma in English Literature and Civilisation, a Bachelor’s degree in Sciences of Language from [Université Lumière Lyon 2](https://www.univ-lyon2.fr/) (France), and a first-class honours Master’s Degree in Speech and Language Processing from [Trinity College Dublin](https://tcd.ie).
+Coming from human sciences, she holds a Bachelor’s degree in Sciences of Language from [Université Lumière Lyon 2](https://www.univ-lyon2.fr/) (France), a first-class honours Master’s Degree in Speech and Language Processing from [Trinity College Dublin](https://tcd.ie), and, parallelly, she secured a diploma in \href{https://www.univ-lyon2.fr/licence-2-langues-litteratures-et-civilisations-etrangeres-et-regionales-anglais}{English Literature and Civilisation}.
 
 She is also a founding member of the CRT AI’s Newsletter Team [_The Turing Point_](https://www.crt-ai.ie/news/crt-newsletter-turing-point/).
 
@@ -39,7 +39,7 @@ By investigating such matters, she hopes to help the development of more human-o
 
 ## Publications
 ### 2024
-Currently working on it. :)
+Currently wrapping-up a method for automatically assessing the progression of a conversation.
 
 ### 2023 
 Vogel, C. Koutsombogera, M., Murat, Anais Claire, Khosrobeigi, Z. & Ma, X. (2023). [Gestural linguistic context vectors encode gesture meaning Gesture and Speech in Interaction](http://hdl.handle.net/2262/103904). GeSpIn. 
@@ -82,10 +82,9 @@ and workshop:
 ### CRT-AI Training Weeks
 As part of the agreement between her funding body, the Centre for Research and Training in
 Artificial Intelligence (CRT-AI), she attended five training weeks during the first year
-of her PhD programme. These weeks were thematised: Machine Learning at the University of Limerick,
-Natural Language Learning at the University of Galway, Reinforcement Learning at Trinity
-College Dublin, Computer Vision at Dublin City University, and Constraint Programming at the
-University of Cork City. On top of providing an opportunity for socialising with
-other PhDs across Ireland, spending these five weeks reviewing the foundations
+of her PhD programme. Studied themes include: Machine Learning at University of Limerick,
+Natural Language Learning at University of Galway, Reinforcement Learning at Trinity
+College Dublin, Computer Vision at Dublin City University, and Constraint Programming at
+University of Cork City. Spending these five weeks reviewing the foundations
 of AI was an incredible learning opportunity to complement her linguistic background.
 
