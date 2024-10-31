@@ -30,10 +30,10 @@ She is also a founding member of the CRT AI’s Newsletter Team [_The Turing Poi
 
 ## Research Interests 
 
-Supervised by Dr. Carl Vogel, she studies the impact of paralinguistic features on human dialogues. More specifically, she studies how gaze can be tracked and used to get insights into the linguistic progression of the interaction. 
+Supervised by Dr. Carl Vogel, her work is twofold. On one hand, she looks into methods to estimate the unfolding of conversations and information in these conversations. On another hand, she studies the impact of paralinguistic features on human dialogues. More specifically, she studies how gaze can be tracked and used to get insights into the linguistic progression of the interaction. 
 Indeed, while eye gaze is known for playing a role in regulating interactions (interaction initiation, turn-taking, showing attention, etc.), her PhD project aims to look into the gaze's relationship with the linguistic unfolding of the conversation itself. One concrete question she is aiming to answer is: _can eye gaze help estimate whether the speaker’s production is more likely focus on previous matters or, instead, move on to another topic?_ 
 
-By investigating such matters, she hopes to help the development of more human-oriented technologies that can make use of multiple modalities in order to become more and more accessible.
+By investigating such matters, she hopes to help the development of more human-oriented technologies that can make use of multiple modalities to become more and more accessible.
 
 
 
