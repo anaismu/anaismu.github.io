@@ -67,7 +67,7 @@ Murat, A. C., Koutsombogera, M., & Vogel, C. (2022). [Mutual Gaze and Linguistic
 ## Training
 
 ### IBM Masterclass & Workshop 2024, Trinity College Dublin
-In September 2024, she attended the IBM masterclass workshop
+In September 2024, she attended the IBM masterclass & workshop.
 - SECURITY, Fabio Pierazzi (King’s College London)
 - EVALUATION IN NLG, Ehud Reiter (University of Aberdeen)
 - OVERVIEW OF LLMs: MODELS and ARCHITECTURE, Raghu Kiran Ganti (IBM Research)
