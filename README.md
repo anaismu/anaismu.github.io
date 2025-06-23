@@ -37,8 +37,11 @@ By investigating such matters, she hopes to help the development of more human-o
 
 
 ## Publications
-### 2024
-Currently wrapping up a method for automatically assessing the progression of a conversation.
+### 2025
+\Murat, A. C. & Vogel, C. [In Review Process] When Repetition Signals Engagement. 
+\Currently wrapping up a study investigating gaze behaviour in relation to conversation progression.
+\Currently wrapping up a method for automatically assessing the progression of a conversation.
+
 
 ### 2023 
 Vogel, C. Koutsombogera, M., Murat, Anais Claire, Khosrobeigi, Z. & Ma, X. (2023). [Gestural linguistic context vectors encode gesture meaning Gesture and Speech in Interaction](http://hdl.handle.net/2262/103904). GeSpIn. 
