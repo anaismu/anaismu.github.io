@@ -38,9 +38,11 @@ By investigating such matters, she hopes to help the development of more human-o
 
 ## Publications
 ### 2025
-\Murat, A. C. & Vogel, C. [In Review Process] When Repetition Signals Engagement. 
-\Currently wrapping up a study investigating gaze behaviour in relation to conversation progression.
-\Currently wrapping up a method for automatically assessing the progression of a conversation.
+Murat, A. C. & Vogel, C. [In Review Process] When Repetition Signals Engagement. 
+
+Currently wrapping up a study investigating gaze behaviour in relation to conversation progression.
+
+Currently wrapping up a method for automatically assessing the progression of a conversation.
 
 
 ### 2023 
