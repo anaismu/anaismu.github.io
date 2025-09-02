@@ -40,6 +40,8 @@ By investigating such matters, she hopes to help the development of more human-o
 ### 2025
 Murat, A. C., & Vogel, C. (2025). [Online Meeting: When Repetition Signals Engagement](). 16th IEEE International Conference on Cognitive InfoCommunications (CogInfoCom)
 
+Murat, A.C., & Vogel, C. [Peer-Reviewed Abstract] (2025). [Entropy & Repetition: Towards observing the unfolding of conversation](https://societaslinguistica.eu/sle2025/wp-content/uploads/sites/8/2025/07/Book-of-abstracts_Workshop-talks_1-13.pdf). SLE 2025.
+
 Currently wrapping up a study investigating gaze behaviour in relation to conversation progression.
 
 Currently wrapping up a method for automatically assessing the progression of a conversation.
@@ -57,8 +59,8 @@ Murat, A. C., Koutsombogera, M., & Vogel, C. (2022). [Mutual Gaze and Linguistic
 
 ## Other Presentations
 
-### 2025
-\[PRESENTATION] Murat, A.C., & Vogel, C. (2025). [Entropy & Repetition: Towards observing the unfolding of conversation]
+
+
 ### 2024
 #### CRT-AI & Amsterdam AI
 \[POSTER] Murat, A. C., "Eye Gaze & Linguistic Interaction Progression", Amsterdam.
