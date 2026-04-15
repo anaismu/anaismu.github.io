@@ -21,19 +21,30 @@ permalink: /
 
 [![Github](https://icons8.com/icon/12599/github) AnaisMu](https://github.com/anaismu)
 
+_If you have my phone number, please be aware that I am likely using a focus mode that may hide your messages or calls. Ringing me twice in a row may by-pass the focus mode, feel free to do so. Additionally, because of scams, I am sceptical about answering unknown numbers, if that is your case, feel free to leave a voice mail -- I do check them. Thanks!_
+_
 ## About 
-Anaïs C. Murat is a PhD candidate in Computer Science at [Trinity College Dublin](https://tcd.ie) since September 2021. She is part of the third cohort being funded by the Science Foundation Ireland’s **Centre for Research Training in Artificial Intelligence [(CRT-AI)](https://crt-ai.ie)**. Particularly interested in syntax and, more broadly, in the underlying rules and patterns governing human interactions, she investigates how these concepts can be applied to the field of Artificial Intelligence.
+I am a finishing PhD candidate in Computer Science and Artificial Intelligence at [Trinity College Dublin](https://tcd.ie). I am part of the third cohort being funded by the Science Foundation Ireland’s **Centre for Research Training in Artificial Intelligence [(CRT-AI)](https://crt-ai.ie)**. Particularly interested in language, syntax and, more broadly, in the underlying rules and patterns governing human interactions, I investigate how these concepts can be applied to the field of Artificial Intelligence.
 
-Coming from the humanities, she holds a [Bachelor’s degree in Sciences of Language](https://www.univ-lyon2.fr/licence-1-sciences-du-langage) from [Université Lumière Lyon 2](https://www.univ-lyon2.fr/) (France), a first-class honours [Master’s Degree in Speech and Language Processing](https://www.tcd.ie/slscs/postgraduate/taught-courses/speech-language-processing/) from [Trinity College Dublin](https://tcd.ie), and, in parallel, she secured a [diploma in English Literature and Civilisation](https://www.univ-lyon2.fr/licence-2-langues-litteratures-et-civilisations-etrangeres-et-regionales-anglais).
+Coming from the humanities, I hold a [Bachelor’s degree in Sciences of Language](https://www.univ-lyon2.fr/licence-1-sciences-du-langage) from [Université Lumière Lyon 2](https://www.univ-lyon2.fr/) (France), a first-class honours [Master’s Degree in Speech and Language Processing](https://www.tcd.ie/slscs/postgraduate/taught-courses/speech-language-processing/) from [Trinity College Dublin](https://tcd.ie), and, in parallel, I secured a [diploma in English Literature and Civilisation](https://www.univ-lyon2.fr/licence-2-langues-litteratures-et-civilisations-etrangeres-et-regionales-anglais). 
 
-She is also a founding member of the CRT AI’s Newsletter Team [_The Turing Point_](https://www.crt-ai.ie/news/crt-newsletter-turing-point/) which reported on different aspects of AI, such as gender bias and generative AI.
+I am also a founding member of the CRT AI’s Newsletter Team [ The Turing Point_](https://www.crt-ai.ie/news/crt-newsletter-turing-point/) which reported on different aspects of AI, such as gender bias and generative AI.
 
 ## Research Interests 
 
-Supervised by Dr. Carl Vogel, her work is twofold. On one hand, she looks into methods to estimate the unfolding of information in conversations. On another hand, she studies the impact of paralinguistic features on human dialogues. More specifically, she studies how gaze can be tracked and used to get insights into the linguistic progression of an interaction. 
-Indeed, while eye gaze is known for playing a role in regulating interactions (interaction initiation, turn-taking, showing attention, etc.), her PhD project aims to look into the gaze's relationship with the linguistic unfolding of the conversation itself. One concrete question she is aiming to answer is: _can eye gaze help estimate whether the speaker’s production is more likely to focus on previous matters or, instead, move on to another topic?_ 
+Supervised by Dr. Carl Vogel, my work is twofold. On the one hand, I look into methods to estimate the unfolding of information in conversations. On the other hand, I study the impact of paralinguistic features on human dialogues. More specifically, I study how gaze can be tracked and used to get insights into the linguistic progression of an interaction. 
+Indeed, while eye gaze is known for playing a role in regulating interactions (interaction initiation, turn-taking, showing attention, etc.), my PhD project aims to look into the gaze's relationship with the linguistic unfolding of the conversation itself. One concrete question I am aiming to answer is: _can eye gaze help estimate whether the speaker’s production is more likely to focus on previous matters or, instead, move on to another topic?_ 
 
-By investigating such matters, she hopes to help the development of more human-oriented technologies that can make use of multiple modalities to become more and more accessible.
+By investigating such matters, I hope to help the development of more human-oriented technologies that can make use of multiple modalities to become more and more accessible.
+
+
+
+## Other Interests 
+
+As a language learning enthusiast -- currently focusing on Hindi and Arabic -- and a former French Language Assistant with training in Applied Linguistics at Trinity College Dublin, I have designed and imagined an AI-powered app for answering other learners' needs. While the idea sparked at a time of frustration where I could not find the appropriate tool for my own learning,  So far, this project has been a thought-provoking one;
+\its design is
+
+
 
 
 ## Publications
@@ -78,7 +89,7 @@ Murat, A. C., Koutsombogera, M., & Vogel, C. (2022). [Mutual Gaze and Linguistic
 #### Manchester NLP Group
 \[INVITED SPEAKER] Murat, A. C., "Studying Multimodality in Interactions:Gaze Patterns & Linguistic Progression"
 #### Science Researcher's Night 
-\[SCIENCE SHOWCASE] w/ the participation of the CRT-AI, sensatisation of the public to online safety. Creation of material to be handed to the general public (booklet, stickers and swag) at Trinity College Dublin
+\[SCIENCE SHOWCASE] w/ the participation of the CRT-AI, awareness-raising of the public to online safety. Creation of material to be handed to the general public (booklet, stickers and swag) at Trinity College Dublin
 ## Training
 
 ### IBM Masterclass & Workshop 2024, Trinity College Dublin
