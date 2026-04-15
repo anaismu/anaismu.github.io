@@ -6,11 +6,11 @@ permalink: /
 ---
 
 # Anaïs C. Murat
-![Photo of Anaïs Murat](/CRT-ID.png){: width="30%"}
 
- PhD Candidate
+ PhD Researcher
  
- School of Computer Science and Statistics, **Trinity College Dublin**, IE
+ School of Computer Science and Statistics, 
+ **Trinity College Dublin**, IrelandE
 
 ## Contact 
 
@@ -24,9 +24,9 @@ permalink: /
 ## About 
 Anaïs C. Murat is a PhD candidate in Computer Science at [Trinity College Dublin](https://tcd.ie) since September 2021. She is part of the third cohort being funded by the Science Foundation Ireland’s **Centre for Research Training in Artificial Intelligence [(CRT-AI)](https://crt-ai.ie)**. Particularly interested in syntax and, more broadly, in the underlying rules and patterns governing human interactions, she investigates how these concepts can be applied to the field of Artificial Intelligence.
 
-Coming from human sciences, she holds a [Bachelor’s degree in Sciences of Language](https://www.univ-lyon2.fr/licence-1-sciences-du-langage) from [Université Lumière Lyon 2](https://www.univ-lyon2.fr/) (France), a first-class honours [Master’s Degree in Speech and Language Processing](https://www.tcd.ie/slscs/postgraduate/taught-courses/speech-language-processing/) from [Trinity College Dublin](https://tcd.ie), and, in parallel, she secured a [diploma in English Literature and Civilisation](https://www.univ-lyon2.fr/licence-2-langues-litteratures-et-civilisations-etrangeres-et-regionales-anglais).
+Coming from the humanities, she holds a [Bachelor’s degree in Sciences of Language](https://www.univ-lyon2.fr/licence-1-sciences-du-langage) from [Université Lumière Lyon 2](https://www.univ-lyon2.fr/) (France), a first-class honours [Master’s Degree in Speech and Language Processing](https://www.tcd.ie/slscs/postgraduate/taught-courses/speech-language-processing/) from [Trinity College Dublin](https://tcd.ie), and, in parallel, she secured a [diploma in English Literature and Civilisation](https://www.univ-lyon2.fr/licence-2-langues-litteratures-et-civilisations-etrangeres-et-regionales-anglais).
 
-She is also a founding member of the CRT AI’s Newsletter Team [_The Turing Point_](https://www.crt-ai.ie/news/crt-newsletter-turing-point/).
+She is also a founding member of the CRT AI’s Newsletter Team [_The Turing Point_](https://www.crt-ai.ie/news/crt-newsletter-turing-point/) which reported on different aspects of AI, such as gender bias and generative AI.
 
 ## Research Interests 
 
@@ -37,16 +37,17 @@ By investigating such matters, she hopes to help the development of more human-o
 
 
 ## Publications
+
+### 2026 
+
+Murat A. C., Koutsombogera M. & Vogel C. (2025). _Event chronography in multi-modaldata: the BME method for quantitative analyses._ In Proceedings of the fifteenth international conference on language resources and evaluation (LREC 2026) (To appear). Palma De Mallorca, Spain: European Language Resources Association (ELRA).
+
+Murat A. C. & Vogel C. (2026). Gaze Behaviour & Conversation Unfolding in the HCRC Map Task Corpus. In Proceedings of the 22nd joint ACL - ISO workshop on interoperable semantic annotation (isa-22) (To appear). Palma De Mallorca, Spain: European Language Resources Association (ELRA).
+
 ### 2025
-Murat, A. C., & Vogel, C. (2025). [Online Meeting: When Repetition Signals Engagement](). 16th IEEE International Conference on Cognitive InfoCommunications (CogInfoCom)
+Murat, A. C., & Vogel, C. (2025). [Online Meeting: When Repetition Signals Engagement](). 16th IEEE International Conference on Cognitive InfoCommunications (CogInfoCom) (pp.37-42). Vienna, Austria: IEEE.
 
 Murat, A.C., & Vogel, C. [Peer-Reviewed Abstract] (2025). [Entropy & Repetition: Towards observing the unfolding of conversation](https://societaslinguistica.eu/sle2025/wp-content/uploads/sites/8/2025/07/Book-of-abstracts_Workshop-talks_1-13.pdf). SLE 2025.
-
-Currently wrapping up a study investigating gaze behaviour in relation to conversation progression.
-
-Currently wrapping up a method for automatically assessing the progression of a conversation.
-
-Currently wrapping up a method for aligning annotations in multimodal datasets.
 
 
 ### 2023 
@@ -59,6 +60,8 @@ Murat, A. C., Koutsombogera, M., & Vogel, C. (2022). [Mutual Gaze and Linguistic
 
 ## Other Presentations
 
+### 2025 
+\[PRESENTATION] Murat, A.C., Vogel, C. "Entropy & Repetition, [Entropy & Repetition: Towards observing the unfolding of conversation](https://societaslinguistica.eu/sle2025/wp-content/uploads/sites/8/2025/07/Book-of-abstracts_Workshop-talks_1-13.pdf). SLE 2025.
 
 
 ### 2024
@@ -74,13 +77,14 @@ Murat, A. C., Koutsombogera, M., & Vogel, C. (2022). [Mutual Gaze and Linguistic
 ### 2022
 #### Manchester NLP Group
 \[INVITED SPEAKER] Murat, A. C., "Studying Multimodality in Interactions:Gaze Patterns & Linguistic Progression"
-
+#### Science Researcher's Night 
+\[SCIENCE SHOWCASE] w/ the participation of the CRT-AI, sensatisation of the public to online safety. Creation of material to be handed to the general public (booklet, stickers and swag) at Trinity College Dublin
 ## Training
 
 ### IBM Masterclass & Workshop 2024, Trinity College Dublin
 In September 2024, she attended the IBM masterclass & workshop.
 - SECURITY, Fabio Pierazzi (King’s College London)
-- EVALUATION IN NLG, Ehud Reiter (University of Aberdeen)
+- EVALUATION IN NATURAL LANGUAGE GENERATION, Ehud Reiter (University of Aberdeen)
 - OVERVIEW OF LLMs: MODELS and ARCHITECTURE, Raghu Kiran Ganti (IBM Research)
 
 
@@ -101,9 +105,11 @@ and workshop:
 ### CRT-AI Training Weeks
 As part of the agreement between her funding body, the Centre for Research and Training in
 Artificial Intelligence (CRT-AI), she attended five training weeks during the first year
-of her PhD programme. Studied themes include: Machine Learning at University of Limerick,
-Natural Language Learning at University of Galway, Reinforcement Learning at Trinity
-College Dublin, Computer Vision at Dublin City University, and Constraint Programming at
+of her PhD programme. Studied themes included: **Machine Learning** at University of Limerick,
+**Natural Language Processing** at University of Galway, **Reinforcement Learning** at Trinity
+College Dublin, **Computer Vision** at Dublin City University, and **Constraint Programming** at
 University of Cork City. Spending these five weeks reviewing the foundations
 of AI was an incredible learning opportunity to complement her linguistic background.
+
+
 
