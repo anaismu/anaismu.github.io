@@ -30,7 +30,7 @@ I am a finishing PhD candidate in Computer Science and Artificial Intelligence a
 
 Coming from the humanities, I hold a [Bachelor’s degree in Sciences of Language](https://www.univ-lyon2.fr/licence-1-sciences-du-langage) from [Université Lumière Lyon 2](https://www.univ-lyon2.fr/) (France), a first-class honours [Master’s Degree in Speech and Language Processing](https://www.tcd.ie/slscs/postgraduate/taught-courses/speech-language-processing/) from [Trinity College Dublin](https://tcd.ie), and, in parallel, I secured a [diploma in English Literature and Civilisation](https://www.univ-lyon2.fr/licence-2-langues-litteratures-et-civilisations-etrangeres-et-regionales-anglais). 
 
-I am also a founding member of the CRT AI’s Newsletter Team [ The Turing Point_](https://www.crt-ai.ie/news/crt-newsletter-turing-point/) which reported on different aspects of AI, such as gender bias and generative AI.
+I am also a founding member of the CRT AI’s Newsletter Team [ _The Turing Point_ ](https://www.crt-ai.ie/news/crt-newsletter-turing-point/) which reported on different aspects of AI, such as gender bias and generative AI.
 
 ## Research Interests 
 
@@ -57,7 +57,7 @@ The idea sparked at a time of frustration when I could not find the appropriate 
 - **Contradiction and Self-Doubt**. If anything, shouldn't language be for humans to share? Am I really faking interaction to enable future, greater ones? Is this a possible path? Maybe, I think it is a very useful tool. But, as a linguist, am I betraying my very own school? Are there greater goods? Or are these lies we tell ourselves?
 \**Authenticity**. Technology cannot be everything. Authenticity is key. 
 
-Additionally, as a hands-on project, it has been very rewarding; at the intersection of my interests, it made me re-inspect, update and implement my knowledge of language teaching, learning and acquisition while developing new practical skills such as app development (back- and front-end), more coding (Swift and Dart), designing, integrating AI, and conducting a full market analysis with over 30 other apps tried and dropped. While being a side project, it made me explore subjects I had hardly ever contemplated (business and marketing) and engage and connect with people through a new, exciting perspective.
+Additionally, as a hands-on project, it has been very rewarding; at the intersection of my interests, it made me re-inspect, update and implement my knowledge of language teaching, learning and acquisition while developing new practical skills such as app development (back- and front-end), more coding (Swift and Dart), designing, integrating AI, and conducting a full market analysis with over 30 other apps tried and dropped. While being a side project, it made me explore subjects I had hardly ever contemplated (business and marketing), and engage and connect with people through a new, exciting perspective.
 
 In fine, the app is yet to be fully developed, and my Hindi still feels frustratingly on hold, but the experience so far has been beyond rewarding. It reinforced my understanding that learning can happen in many different ways and aspects of life. Sometimes a thought sparks while doing the dishes and changes our trajectory a bit. May it be a rabbit hole or an opening into a new universe, it forces us to explore. 
 
