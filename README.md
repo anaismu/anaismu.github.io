@@ -21,7 +21,7 @@ permalink: /
 
 [![Github](https://icons8.com/icon/12599/github) AnaisMu](https://github.com/anaismu)
 
-_If you have my phone number, please be aware that I am likely using a focus mode that may hide your messages or calls. Ringing me twice in a row may by-pass the focus mode, feel free to do so. Additionally, because of scams, I am sceptical about answering unknown numbers, if that is your case, feel free to leave a voice mail -- I do check them. Thanks!_
+_If you have my phone number, please be aware that I am likely using a focus mode that may hide your messages or calls. Ringing me twice in a row may bypass the focus mode, feel free to do so. Additionally, because of scams, I am sceptical about answering unknown numbers, if that is your case, feel free to leave a voice mail -- I do check them. Thanks!_
 _
 ## About 
 I am a finishing PhD candidate in Computer Science and Artificial Intelligence at [Trinity College Dublin](https://tcd.ie). I am part of the third cohort being funded by the Science Foundation Ireland’s **Centre for Research Training in Artificial Intelligence [(CRT-AI)](https://crt-ai.ie)**. Particularly interested in language, syntax and, more broadly, in the underlying rules and patterns governing human interactions, I investigate how these concepts can be applied to the field of Artificial Intelligence.
@@ -41,8 +41,26 @@ By investigating such matters, I hope to help the development of more human-orie
 
 ## Other Interests 
 
-As a language learning enthusiast -- currently focusing on Hindi and Arabic -- and a former French Language Assistant with training in Applied Linguistics at Trinity College Dublin, I have designed and imagined an AI-powered app for answering other learners' needs. While the idea sparked at a time of frustration where I could not find the appropriate tool for my own learning,  So far, this project has been a thought-provoking one;
-\its design is
+### Language Learning Application - A thought-provoking side quest 
+As a language learning enthusiast -- currently focusing on Hindi and Arabic -- and a former French Language Assistant at Trinity College Dublin with training in Applied Linguistics, I have designed and imagined an AI-powered app for answering other learners' needs. 
+
+The idea sparked at a time of frustration when I could not find the appropriate tool to support my own learning. A few days later, its first prototype met the enthusiasm of many other learners around me. Beyond expectation, its genesis has been thought-provoking. Below is a very condensed -- and non-exhaustive-- list of such considerations, in an arbitrary ordering and with no intent to provide proper conclusions: 
+\**Learners first**. Technology needs to be enabling and supportive. If it fails to do so, the app has no reason to be.
+\**Technology**. What technology? Does it exist? Is it available? Under what condition? It does not exist? Well, will it ever exist? When? All of a sudden, I find myself projecting ten years into a future that may never come to exist.
+\**Ethics**. Can generative AI be used ethically? How can we limit its harm? How not to be part of the problem? Is there only a way? How to do my part? 
+\**Politics and AI**. From picking a model to designing prompts and mitigating bias, can AI be separated from politics? Should it be? 
+\**More politics**, less AI, more Ethics. Teaching a language is a take on a culture. What should that take be? What narrative? How to implement it? 
+\**Only politics**. In a world where neutrality may leave space for ill-intended agendas, is neutrality something to embrace? Isn't language learning a political statement in itself? Maybe I would like to believe it is. 
+\**Hope**. Maybe enabling people to speak another language and to conceptualise the world through different lenses would make us all a bit nicer.
+\**Contradiction and Self-Doubt**. If anything, shouldn't language be for humans to share? Am I really faking interaction to enable future, greater ones? Is this a possible path? Maybe, I think it is a very useful tool. But, as a linguist, am I betraying my very own school? Are there greater goods? Or are these lies we tell ourselves?
+\**Authenticity**. Technology cannot be everything. Authenticity is key. 
+
+Additionally, as a hands-on project, it has been very rewarding; at the intersection of my interests, it made me re-inspect, update and implement my knowledge of language teaching, learning and acquisition while developing new practical skills such as app development (back- and front-end), more coding (Swift and Dart), designing, integrating AI, and conducting a full market analysis with over 30 other apps tried and dropped. While being a side project, it made me explore subjects I had hardly ever contemplated (business and marketing) and engage and connect with people through a new, exciting perspective.
+
+In fine, the app is yet to be fully developed, and my Hindi still feels frustratingly on hold, but the experience so far has been beyond rewarding. It reinforced my understanding that learning can happen in many different ways and aspects of life. Sometimes a thought sparks while doing the dishes and changes our trajectory a bit. May it be a rabbit hole or an opening into a new universe, it forces you to grow and explore. 
+
+
+
 
 
 
