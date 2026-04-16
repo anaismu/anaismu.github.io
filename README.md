@@ -7,13 +7,15 @@ permalink: /
 
 # Anaïs C. Murat
 
- PhD Researcher
- 
- School of Computer Science and Statistics, 
- **Trinity College Dublin**, IrelandE
+
+PhD Researcher in Artificial Intelligence (AI)
+Linguist.
+
+Computational Linguistics Group
+School of Computer Science and Statistics, 
+**Trinity College Dublin**, Ireland
 
 ## Contact 
-
 
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm.021 17.824c-3.907 0-6.021-2.438-6.021-5.586 0-3.363 2.381-6.062 6.638-6.062 3.107 0 5.362 2.019 5.362 4.801 0 4.356-5.165 5.506-4.906 3.021-.354.555-.927 1.177-2.026 1.177-1.257 0-2.04-.92-2.04-2.403 0-2.222 1.461-4.1 3.19-4.1.829 0 1.399.438 1.638 1.11l.232-.816h1.169c-.122.416-1.161 4.264-1.161 4.264-.323 1.333.675 1.356 1.562.648 1.665-1.29 1.75-4.664-.499-6.071-2.411-1.445-7.897-.551-7.897 4.347 0 2.806 1.976 4.691 4.914 4.691 1.719 0 2.771-.465 3.648-.974l.588.849c-.856.482-2.231 1.104-4.391 1.104zm-1.172-7.153c-.357.67-.588 1.538-.588 2.212 0 1.805 1.761 1.816 2.626.12.356-.697.586-1.586.586-2.265 0-1.458-1.748-1.717-2.624-.067z"/></svg>  **murata at tcd dot ie**
 
@@ -21,7 +23,7 @@ permalink: /
 
 [![Github](https://icons8.com/icon/12599/github) AnaisMu](https://github.com/anaismu)
 
-_If you have my phone number, please be aware that I am likely using a focus mode that may hide your messages or calls. Ringing me twice in a row may bypass the focus mode, feel free to do so. Additionally, because of scams, I am sceptical about answering unknown numbers, if that is your case, feel free to leave a voice mail -- I do check them. Thanks!_
+_If you have my phone number, please be aware that I am likely using a focus mode that may hide your messages or calls. Ringing me twice in a row may bypass the focus mode, feel free to do so. Additionally, because of scams, I am sceptical about answering unknown numbers, if that is your case, feel free to leave a voice mail -- I do check them. Thanks_!
 _
 ## About 
 I am a finishing PhD candidate in Computer Science and Artificial Intelligence at [Trinity College Dublin](https://tcd.ie). I am part of the third cohort being funded by the Science Foundation Ireland’s **Centre for Research Training in Artificial Intelligence [(CRT-AI)](https://crt-ai.ie)**. Particularly interested in language, syntax and, more broadly, in the underlying rules and patterns governing human interactions, I investigate how these concepts can be applied to the field of Artificial Intelligence.
@@ -45,19 +47,19 @@ By investigating such matters, I hope to help the development of more human-orie
 As a language learning enthusiast -- currently focusing on Hindi and Arabic -- and a former French Language Assistant at Trinity College Dublin with training in Applied Linguistics, I have designed and imagined an AI-powered app for answering other learners' needs. 
 
 The idea sparked at a time of frustration when I could not find the appropriate tool to support my own learning. A few days later, its first prototype met the enthusiasm of many other learners around me. Beyond expectation, its genesis has been thought-provoking. Below is a very condensed -- and non-exhaustive-- list of such considerations, in an arbitrary ordering and with no intent to provide proper conclusions: 
-\**Learners first**. Technology needs to be enabling and supportive. If it fails to do so, the app has no reason to be.
-\**Technology**. What technology? Does it exist? Is it available? Under what condition? It does not exist? Well, will it ever exist? When? All of a sudden, I find myself projecting ten years into a future that may never come to exist.
-\**Ethics**. Can generative AI be used ethically? How can we limit its harm? How not to be part of the problem? Is there only a way? How to do my part? 
-\**Politics and AI**. From picking a model to designing prompts and mitigating bias, can AI be separated from politics? Should it be? 
-\**More politics**, less AI, more Ethics. Teaching a language is a take on a culture. What should that take be? What narrative? How to implement it? 
-\**Only politics**. In a world where neutrality may leave space for ill-intended agendas, is neutrality something to embrace? Isn't language learning a political statement in itself? Maybe I would like to believe it is. 
-\**Hope**. Maybe enabling people to speak another language and to conceptualise the world through different lenses would make us all a bit nicer.
-\**Contradiction and Self-Doubt**. If anything, shouldn't language be for humans to share? Am I really faking interaction to enable future, greater ones? Is this a possible path? Maybe, I think it is a very useful tool. But, as a linguist, am I betraying my very own school? Are there greater goods? Or are these lies we tell ourselves?
+- **Learners first**. Technology needs to be enabling and supportive. If it fails to do so, the app has no reason to be.
+- **Technology**. What technology? Does it exist? Is it available? Under what condition? It does not exist? Well, will it ever exist? When? All of a sudden, I find myself projecting ten years into a future that may never come to exist.
+- **Ethics**. Can generative AI be used ethically? How can we limit its harm? How not to be part of the problem? Is there only a way? How to do my part? 
+- **Politics and AI**. From picking a model to designing prompts and mitigating bias, can AI be separated from politics? Should it be? 
+- **More politics**, less AI, more Ethics. Teaching a language is a take on a culture. What should that take be? What narrative? How to implement it? 
+- **Only politics**. In a world where neutrality may leave space for ill-intended agendas, is neutrality something to embrace? Isn't language learning a political statement in itself? Maybe I would like to believe it is. 
+- **Hope**. Maybe enabling people to speak another language and to conceptualise the world through different lenses would make us all a bit nicer.
+- **Contradiction and Self-Doubt**. If anything, shouldn't language be for humans to share? Am I really faking interaction to enable future, greater ones? Is this a possible path? Maybe, I think it is a very useful tool. But, as a linguist, am I betraying my very own school? Are there greater goods? Or are these lies we tell ourselves?
 \**Authenticity**. Technology cannot be everything. Authenticity is key. 
 
 Additionally, as a hands-on project, it has been very rewarding; at the intersection of my interests, it made me re-inspect, update and implement my knowledge of language teaching, learning and acquisition while developing new practical skills such as app development (back- and front-end), more coding (Swift and Dart), designing, integrating AI, and conducting a full market analysis with over 30 other apps tried and dropped. While being a side project, it made me explore subjects I had hardly ever contemplated (business and marketing) and engage and connect with people through a new, exciting perspective.
 
-In fine, the app is yet to be fully developed, and my Hindi still feels frustratingly on hold, but the experience so far has been beyond rewarding. It reinforced my understanding that learning can happen in many different ways and aspects of life. Sometimes a thought sparks while doing the dishes and changes our trajectory a bit. May it be a rabbit hole or an opening into a new universe, it forces you to grow and explore. 
+In fine, the app is yet to be fully developed, and my Hindi still feels frustratingly on hold, but the experience so far has been beyond rewarding. It reinforced my understanding that learning can happen in many different ways and aspects of life. Sometimes a thought sparks while doing the dishes and changes our trajectory a bit. May it be a rabbit hole or an opening into a new universe, it forces us to explore. 
 
 
 
