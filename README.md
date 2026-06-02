@@ -19,7 +19,7 @@ School of Computer Science and Statistics,
 
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm.021 17.824c-3.907 0-6.021-2.438-6.021-5.586 0-3.363 2.381-6.062 6.638-6.062 3.107 0 5.362 2.019 5.362 4.801 0 4.356-5.165 5.506-4.906 3.021-.354.555-.927 1.177-2.026 1.177-1.257 0-2.04-.92-2.04-2.403 0-2.222 1.461-4.1 3.19-4.1.829 0 1.399.438 1.638 1.11l.232-.816h1.169c-.122.416-1.161 4.264-1.161 4.264-.323 1.333.675 1.356 1.562.648 1.665-1.29 1.75-4.664-.499-6.071-2.411-1.445-7.897-.551-7.897 4.347 0 2.806 1.976 4.691 4.914 4.691 1.719 0 2.771-.465 3.648-.974l.588.849c-.856.482-2.231 1.104-4.391 1.104zm-1.172-7.153c-.357.67-.588 1.538-.588 2.212 0 1.805 1.761 1.816 2.626.12.356-.697.586-1.586.586-2.265 0-1.458-1.748-1.717-2.624-.067z"/></svg>  **murata at tcd dot ie**
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Anaïs Murat](https://www.linkedin.com/in/anais-myʁa)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Anaïs Murat](https://www.linkedin.com/in/anais-c-murat)
 
 [![Github](https://icons8.com/icon/12599/github) AnaisMu](https://github.com/anaismu)
 
@@ -27,16 +27,18 @@ School of Computer Science and Statistics,
 ## About 
 I am a finishing PhD candidate in Computer Science and Artificial Intelligence at [Trinity College Dublin](https://tcd.ie). 
 
-I have been fully funded by the Science Foundation Ireland’s **Centre for Research Training in Artificial Intelligence [(CRT-AI)](https://crt-ai.ie)** which offered AI training and  Particularly interested in language, syntax and, more broadly, in the underlying rules and patterns governing human interactions, I investigate how these concepts can be applied to the field of Artificial Intelligence.
+I have been fully funded by the Science Foundation Ireland’s **Centre for Research Training in Artificial Intelligence [(CRT-AI)](https://crt-ai.ie)** which, beyond financial support, also offered AI training, as well as networking and collaboration opportunities.
 
-Coming from the humanities, I hold a a first-class honours [Master’s Degree in Speech and Language Processing](https://www.tcd.ie/slscs/postgraduate/taught-courses/speech-language-processing/) from [Trinity College Dublin](https://tcd.ie), a [Bachelor’s degree in Sciences of Language](https://www.univ-lyon2.fr/licence-1-sciences-du-langage) from [Université Lumière Lyon 2](https://www.univ-lyon2.fr/) (France), and, in parallel, I managed to secure a [diploma in English Literature and Civilisation](https://www.univ-lyon2.fr/licence-2-langues-litteratures-et-civilisations-etrangeres-et-regionales-anglais) from the same. 
+Particularly interested in language, syntax and, more broadly, in the underlying rules and patterns governing human interactions, I investigate how these concepts can be applied to the field of Artificial Intelligence.
+
+I come from the humanities -- more specifically from linguistics. I hold a a first-class honours [Master’s Degree in Speech and Language Processing](https://www.tcd.ie/slscs/postgraduate/taught-courses/speech-language-processing/) from [Trinity College Dublin](https://tcd.ie), a [Bachelor’s degree in Sciences of Language](https://www.univ-lyon2.fr/licence-1-sciences-du-langage) from [Université Lumière Lyon 2](https://www.univ-lyon2.fr/) (France). In parallel, I managed to secure a [diploma in English Literature and Civilisation](https://www.univ-lyon2.fr/licence-2-langues-litteratures-et-civilisations-etrangeres-et-regionales-anglais) from the same. 
 
 I am also a founding member of the CRT AI’s Newsletter Team [ _The Turing Point_ ](https://www.crt-ai.ie/news/crt-newsletter-turing-point/) which reported on different aspects of AI, such as gender bias and generative AI.
 
 ## Research Interests 
 
-Supervised by Dr. Carl Vogel, my work is twofold. On the one hand, I look into methods to estimate the unfolding of information in conversations. On the other hand, I study the impact of paralinguistic features on human dialogues. More specifically, I study how gaze can be tracked and used to get insights into the linguistic progression of an interaction. 
-Indeed, while eye gaze is known for playing a role in regulating interactions (interaction initiation, turn-taking, showing attention, etc.), my PhD project aims to look into the gaze's relationship with the linguistic unfolding of the conversation itself. One concrete question I am aiming to answer is: _can eye gaze help estimate whether the speaker’s production is more likely to focus on previous matters or, instead, move on to another topic?_ 
+Supervised by Dr. Carl Vogel, my work is twofold. On the one hand, I look into methods to estimate the unfolding of information in conversations. On the other hand, I study the impact of paralinguistic features on human dialogues. More specifically, I have focused on how gaze can be tracked and used to get insights into the linguistic progression of an interaction. 
+Indeed, while eye gaze is known for playing a role in regulating interactions (interaction initiation, turn-taking, shared attention, etc.), my PhD project aims to look into the gaze's relationship with the linguistic unfolding of the conversation itself. One concrete question I am aiming to answer is: _can eye gaze help estimate whether the speaker’s production is more likely to focus on previous matters or, instead, move on to another topic?_ 
 
 By investigating such matters, I hope to help the development of more human-oriented technologies that can make use of multiple modalities to become more and more accessible.
 
@@ -45,14 +47,14 @@ By investigating such matters, I hope to help the development of more human-orie
 ## Other Interests 
 
 ### Language Learning Application - A thought-provoking side quest 
-As a language learning enthusiast -- currently focusing on Hindi and Arabic -- and a former French Language Assistant at Trinity College Dublin with training in Applied Linguistics, I have designed and imagined an AI-powered app for answering other learners' needs. 
+As a language learning enthusiast -- currently focusing on Hindi -- and a former French Language Assistant at Trinity College Dublin with training in Applied Linguistics (the study of how to teach languages), I have designed and imagined an AI-powered app for answering other learners' needs. 
 
 The idea sparked at a time of frustration when I could not find the appropriate tool to support my own learning. A few days later, its first prototype met the enthusiasm of many other learners around me. Beyond expectation, its genesis has been thought-provoking. Below is a very condensed -- and non-exhaustive-- list of such considerations, in an arbitrary ordering and with no intent to provide proper conclusions: 
 - **Learners first**. Technology needs to be enabling and supportive. If it fails to do so, the app has no reason to be.
 - **Technology**. What technology? Does it exist? Is it available? Under what condition? It does not exist? Well, will it ever exist? When? All of a sudden, I find myself projecting ten years into a future that may never come to pass.
 - **Ethics**. Can generative AI be used ethically? How can we limit its harm? How not to be part of the problem? 
 - **Politics and AI**. From picking a model to designing prompts and mitigating bias, can AI be separated from politics? Should it be? 
-- **More politics, less AI, more Ethics**. Teaching a language is a take on a culture. What should that take be? What narrative? How to implement it? 
+- **More politics, less AI, more Ethics**. Teaching a language is a take on a culture. What should that take be? Can there be several? How to represent them? How to implement a cultural module? 
 - **Only politics**. In a world where neutrality may leave space for ill-intended agendas, is neutrality something to embrace? Isn't language learning a political statement in itself? Maybe I would like to believe it is. 
 - **Hope**. Maybe enabling people to speak another language and to conceptualise the world through different lenses would make us all a bit nicer.
 - **Contradiction and Self-Doubt**. If anything, shouldn't language be for humans to share? Can faking interactions enable future, greater ones? Is this a possible path? Maybe... I think it is a very useful tool. But, as a linguist, am I betraying my very own school? Are there greater goods? Or are these lies we tell ourselves?
@@ -60,7 +62,7 @@ The idea sparked at a time of frustration when I could not find the appropriate 
 
 Additionally, as a hands-on project, it has been very rewarding: at the intersection of my interests, it made me re-inspect, update and apply my knowledge and experience in language teaching, learning and acquisition while developing new practical skills such as app development (back- and front-end), more coding (Swift and Dart), designing, integrating AI, and conducting a full market analysis with over 30 other apps tried (and dropped). While being a side project, it made me explore subjects I had hardly ever contemplated (business), and engage and connect with people through a new, exciting perspective.
 
-In fine, the app is yet to be fully developed --and maybe it will never be. My Hindi still feels frustratingly on hold. But the experience so far has been beyond rewarding. It reinforced my understanding that learning can happen in many different ways and aspects of life. Sometimes, a thought sparks while doing the dishes and changes our trajectory a bit. May it be a rabbit hole or an opening into a new universe, it shapes us in unpredictable ways.
+In a nutschell, the app is yet to be fully developed --and maybe it will never be. My Hindi still feels frustratingly on hold. But the experience so far has been beyond rewarding. It reinforced my understanding that learning can happen in many different ways and aspects of life. Sometimes, a thought sparks while doing the dishes and changes our trajectory a bit. May it be a rabbit hole or an opening into a new universe, it shapes us in unpredictable ways.
 
 
 
