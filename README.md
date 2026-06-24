@@ -62,7 +62,7 @@ The idea sparked at a time of frustration when I could not find the appropriate 
 
 Additionally, as a hands-on project, it has been very rewarding: at the intersection of my interests, it made me re-inspect, update and apply my knowledge and experience in language teaching, learning and acquisition while developing new practical skills such as app development (back- and front-end), more coding (Swift and Dart), designing, integrating AI, and conducting a full market analysis with over 30 other apps tried (and dropped). While being a side project, it made me explore subjects I had hardly ever contemplated (business), and engage and connect with people through a new, exciting perspective.
 
-In a nutschell, the app is yet to be fully developed --and maybe it will never be. My Hindi still feels frustratingly on hold. But the experience so far has been beyond rewarding. It reinforced my understanding that learning can happen in many different ways and aspects of life. Sometimes, a thought sparks while doing the dishes and changes our trajectory a bit. May it be a rabbit hole or an opening into a new universe, it shapes us in unpredictable ways.
+In a nutschell, the app is yet to be fully developed. My Hindi still feels frustratingly on hold. But the experience so far has been beyond rewarding. It reinforced my understanding that learning can happen in many different ways and aspects of life. Sometimes, a thought sparks while doing the dishes and changes our trajectory a bit. May it be a rabbit hole or an opening into a new universe, it shapes us in unpredictable ways.
 
 
 
@@ -136,14 +136,14 @@ and Andy Lücking
 and workshop:
 - Annotation, Recognition and Evaluation of Actions II (AREA-II)
 
-### CRT-AI Training Weeks
+### CRT-AI Training Weeks 2021-2022
 I attended five training weeks by the Centre for Research and Training in
 Artificial Intelligence (CRT-AI) during the first year
 of my PhD programme. Studied themes included: **Machine Learning** at University of Limerick,
 **Natural Language Processing** at University of Galway, **Reinforcement Learning** at Trinity
 College Dublin, **Computer Vision** at Dublin City University, and **Constraint Programming** at
 University of Cork City. Spending these five weeks reviewing the foundations
-of AI was an incredible learning opportunity to complement her linguistic background.
+of AI was an incredible learning opportunity to complement my linguistic background beyond NLP and Speech technologies.
 
 
 
